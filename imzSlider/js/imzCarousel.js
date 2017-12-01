@@ -1,7 +1,7 @@
 /**
  * はてなブログ専用のカルーセル仕様スライダーです.
  * @author imuza.com
- * @version 1.0.0
+ * @version 1.1.0
  *
  * @param {object} options - オプション・パラメータを指定します.
  * @param {string} options.id - 一意の文字列で指定し、呼び出しの id と一致させてください.
